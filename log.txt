@@ -1,0 +1,57 @@
+commit 5602b8b89af2fd3fc194dbf1e828f2509eee986b
+Author: Sajid Zaman <zsajid014@gmail.com>
+Date:   Mon May 2 19:48:50 2016 +0200
+
+    Added text file about new features implemented
+
+commit 49d603a6310d6b229ef0dd9fb9698e09dd9d8751
+Author: Sajid Zaman <zsajid014@gmail.com>
+Date:   Mon May 2 19:48:50 2016 +0200
+
+    Added User (class), now we can:
+    - add N number of user
+    - every user can have N number of list
+    - we can print list of all ToDo lists of user.
+
+commit c114fd53002e9a3be7cc9cb4f500c21b2a663292
+Author: Sajid Zaman <zsajid014@gmail.com>
+Date:   Mon May 2 19:48:50 2016 +0200
+
+    Added sort_tasks_by_priority and sort_tasks_by_time_creation
+
+commit 43e54c570a98f4d62347533255e3b0cc55354fb6
+Author: Sajid Zaman <zsajid014@gmail.com>
+Date:   Mon May 2 19:48:50 2016 +0200
+
+    Make task priority of 'true or false' and change priority
+
+commit 6c3cc36c0df2d0a91e2b94788d8f8a0d9a03b6d8
+Author: Sajid Zaman <zsajid014@gmail.com>
+Date:   Mon May 2 19:48:50 2016 +0200
+
+    implemented '?' method based on rubric specification
+
+commit b1126a2410ff3a18fa0049da08a7d5f2ad9891a7
+Author: Sajid Zaman <zsajid014@gmail.com>
+Date:   Mon May 2 19:48:50 2016 +0200
+
+    Updated some methods based on rubric criteria:
+    - task update status
+    - print list of tasks
+
+commit da08defa5e1e997c581a816062567aea1d953157
+Author: Sajid Zaman <zsajid014@gmail.com>
+Date:   Mon May 2 19:48:50 2016 +0200
+
+    Added basic functionality.
+    - add task
+    - remove task
+    - change status
+    - print tasks
+    - change title of the todo list
+
+commit 6194c2f488bf9dfafd9c2616d9db36f1cdc3f895
+Author: Sajid Zaman <zsajid014@gmail.com>
+Date:   Mon May 2 19:48:50 2016 +0200
+
+    Initial commit
