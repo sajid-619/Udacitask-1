@@ -1,0 +1,3 @@
+Feature #1: The ability to assign a priority for the task.
+Feature #2: The ability to sort tasks by priority or the time creation.
+Feature #3: Ability to add users. The user can add and view his task lists.
